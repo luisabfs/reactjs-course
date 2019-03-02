@@ -8,6 +8,10 @@
 4. Consuming REST API's with Axios
 5. Declarative routing with react-router-dom
 
+## Print
+
+![react-course](https://user-images.githubusercontent.com/21061462/53678249-4400a080-3c9b-11e9-903d-bcc0da0160c6.gif)
+
 ### Credits
 Project bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
